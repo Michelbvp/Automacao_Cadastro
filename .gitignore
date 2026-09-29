@@ -1,0 +1,14 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Caches do Python
+__pycache__/
+*.pyc
+
+# Configurações e senhas
+.env
+
+# Histórico e logs
+*.log
